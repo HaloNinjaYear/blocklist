@@ -1,0 +1,2 @@
+# blocklist
+Blocklist for pihole
