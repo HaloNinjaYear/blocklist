@@ -1,0 +1,53 @@
+# Blocklist by HaloNinjaYesr
+# Use at own risk, stored in Github for personal use
+# Last Updated: 10/08/23
+
+# Amazon
+0.0.0.0 advertising-api-eu.amazon.com
+
+# Google Ads
+0.0.0.0 afs.googlesyndication.com
+
+# Hotjar
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 events.hotjar.io
+
+# Mouseflow
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+
+# Freshworks
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+
+# Luckyorange
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+
+# BugSnag
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+
+# Sentry
+0.0.0.0 browser.sentry-cdn.com
+
+# Pinterest
+0.0.0.0 widgets.pinterest.com
+
+# TikTok
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 business-api.tiktok.com
+
+# Yahoo
+0.0.0.0 adtech.yahooinc.com
+
+# Huawei
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+
+# Samsung
+0.0.0.0 samsung-com.112.2o7.net
